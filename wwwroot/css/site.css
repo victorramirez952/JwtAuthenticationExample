@@ -1,0 +1,14 @@
+/* Custom styles for the application */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1;
+}
+
+.footer {
+    background-color: #f8f9fa;
+}

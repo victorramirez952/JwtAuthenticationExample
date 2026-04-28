@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthJWT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d59f8de5ca396694757b004dbd00547980ae57b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthJWT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthJWT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
